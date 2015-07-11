@@ -28,3 +28,4 @@ So here we go:
 * Planetary constants
   * Planets created as objects with their physical constants as object attributes.
   * Parsed official NASA data tables with pandas.read_html for this. Awesomely easy!
+  * This is the part that is already available in github.com/michaelaye/planetpy
